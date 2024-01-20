@@ -1,5 +1,29 @@
 ESCAPE A Puzzle-Adventure That Will Test Your Wits and Unlock Your Freedom!
+
+Trapped in a mysterious cell, your only hope for freedom lies within hidden chests and mind-bending puzzles. 
+️ Embark on an immersive escape mission in "Escape," a captivating puzzle-adventure game that will 
+challenge your problem-solving skills and unlock your inner strategist. ️
+✨ Key Features: ✨
+
+- Intriguing puzzles and riddles that will challenge your mind.
+- Multiple chests to unlock, each with its own unique challenges.
+- Stunning visuals and an immersive soundscape that bring the world to life.
+- Test your resource management skills as you collect and utilize keys and items.
+
+✨ Key Features: ✨
+- Made in pure C 
+- Library utilized: Raylib, Raygui, Math.h, String.h
+- Raylib for 2D Plane, game design and logic
+- Raygui for buttons
+- Pre-made RayGui style: Cherry has been utilized
+- Cross-platform enabled through CMakeList and Source code
+
+Download Raylib from:
+- https://www.raylib.com/
+Download RayGui from:
+- https://github.com/raysan5/raygui/tree/master
+
 A game developed as an end-semester project for Fundamentals of Computer Programming by Ahmad Imran
 Instructor: Jaudat Mamoon
-Incase of any issue mail me at devahmadhero@gmail.com
-I own none of the .pngs credits belong to their respective owners (for credits kindly mail)
+In case of any issues mail me at devahmadhero@gmail.com
+I own none of the .pngs or fonts credits belong to their respective owners (for credits kindly mail)
