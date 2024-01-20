@@ -72,12 +72,10 @@ int guessPass2 = 0;
 char wordGuess1[7];
 char wordGuess2[9];
 char wordGuess3[8];
-char wordGuess4[9];
 
 char wordGuess4_1[6];
 char wordGuess4_2[9];
 char wordGuess4_3[8];
-char wordGuess4_4[9];
 
 bool ansQues4_1 = false;
 bool ansQues4_2 = false;
